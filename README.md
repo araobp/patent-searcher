@@ -26,7 +26,10 @@ PatentSQUAREより特許データをダウンロードしCopilotやClaude Cowork
 
 Anitgravityへ電子工作や3D制作向けコード書かせて実機で動作させる。これが一番。
 
-### Geminiが生成したこれって動く？J-PlatPat論理式をPatentSQUARE向けに変換。後で試験してみる。
+## Geminiが生成したこれって動く？J-PlatPat論理式をPatentSQUARE向けに変換。後で試験してみる。
+
+動機：後々を考えると、J-PlatPatの論理式文法を覚えたい。しかし、PatentSQUAREで作業したい。
+
 
 ```python
 import re
